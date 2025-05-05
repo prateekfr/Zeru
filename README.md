@@ -1,6 +1,6 @@
-# Zeru Finance – Methodology: Decentralized Wallet Scoring
+# Zeru Finance : Decentralized Wallet Scoring
 
-This repo is the submission of POC for Zeru Finance which a machine learning model that assigns a credit score between 0 and 100 to each wallet from raw, transaction-level data from the Compound V2 protocol.
+This repo is the submission of POC for Zeru Finance by creating a credit scorer in which a machine learning model assigns a credit score between 0 and 100 to each wallet from raw, transaction-level data from the Compound V2 protocol.
 
 ## Folder Structure 
 
